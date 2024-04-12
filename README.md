@@ -1,1 +1,3 @@
-# projeto-star-movies
+# Star Movies API
+
+My first API
