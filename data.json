@@ -1,14 +1,17 @@
 [
     {
         "name":"A New Hope",
-        "year":"1977"
+        "year":"1977",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Star_Wars_Epis%C3%B3dio_IV_Uma_Nova_Esperan%C3%A7a.jpg"
     },
     {
         "name":"The Emperor Strikes Back",
-        "year":"1980"
+        "year":"1980",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/5c/The_Empire_Strikes_Back.jpg/250px-The_Empire_Strikes_Back.jpg"
     },
     {
         "name":"The Return of the Jedi",
-        "year":"1983"
+        "year":"1983",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/b/b2/ReturnOfTheJediPoster1983.jpg"
     }
 ]
